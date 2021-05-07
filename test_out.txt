@@ -1,0 +1,91 @@
+g0
+g1
+g2
+$
+[;]
+deleteGraph
+printGraph
+reset
+who
+$
+who
+$
+$
+g
+$
+Error: Unrecognized Command 'prin t(g)'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Charachter Try To Remove: =
+Error: Unrecognized Command 'g+g={}'
+Error: Invalid Charachter Try To Remove: =
+Error: Invalid Variable Name '('
+Error: Edge Cannot Repit In Graph Definition '<a,as>'
+Error: Graph Cannot Have a Selef Loop ' <a,a> '
+Error: Vertex Cannot Repit In Graph Definition :'a'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Undefined Variable (
+Error: Invalid Bracket ( or ) 
+Error: Invalid Who Syntax, try 'who' ' 
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Variable Name '1g'
+Error: Cannot Open File To Load Graph From 'a'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Variable Name '('
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Undefined Variable +
+Error: Invalid Variable Name 'load()'
+Error: Invalid Print Syntax, try 'print(name_of_graph)' 
+Error: Invalid Delete Syntax, try 'delete(name_of_existing_graph)' 
+Error: Unrecognized Command 'p rint({a,v})'
+Error: Undefined Variable g100
+Error: Undefined Variable +
+Error: Undefined Variable *
+Error: Unrecognized Command 'g'
+Error: Invalid Bracket ( or ) 
+Error: Undefined Variable delete
+Error: Invalid Variable Name 'load(dskfljslfj)'
+Error: Cannot Open File To Load Graph From 'dfsdlfkssldfk'
+Error: Unrecognized Command 'g='
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Print Syntax, try 'print(name_of_graph)' 
+Error: Invalid Delete Syntax, try 'delete(name_of_existing_graph)' 
+Error: Invalid Variable Name 'load({})'
+Error: Invalid Variable Name '='
+Error: Invalid Edges definition  Edge Destenation Vertex Does Not Exists: b[;]
+Error: Invalid Charachter Try To Remove: .
+Error: Unrecognized Command 'de lete(g)'
+Error: Undefined Variable !
+Error: Undefined Variable =
+Error: Undefined Variable )
+Error: Unrecognized Command ' d e l e t e ( g)'
+Error: Invalid Who Syntax, try 'who' ' 
+Error: Invalid reset Syntax, try 'reset' 
+Error: Invalid Who Syntax, try 'who' ' 
+Error: Invalid quit Syntax, try 'quit' 
+Error: Invalid Variable Name '('
+Error: Invalid Variable Name '('
+Error: Invalid Charachter Try To Remove: &
+Error: Invalid Variable Name '='
+Error: Invalid Variable Name '('
+Error: Invalid Variable Name '('
+Error: Invalid Variable Name '[]'
+Error: Undefined Variable }
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Undefined Variable nimas
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Graph Definition Missing An Operator Or A Graph 
+Error: Invalid Edges definition  Problem With '>' 
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Graph Definition 'Probably a , Problem In Your Graph Definition'
+Error: Invalid Bracket ( or ) 
+Error: Unrecognized Command 'g 10={}'
+Error: Graph Cannot Have a Selef Loop ' <,,,> '
+Error: Invalid Edges definition  Missing ',' Or Vertecies Defining The Edge 
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Vertex Name Or a Problem With Spearting ',' 'Try <src,dest> Seperated With ,'
+Error: Invalid Variable Name 'load(load   load)'

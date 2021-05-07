@@ -1,0 +1,100 @@
+   g0={a,s,d,f,g,h,j,k,l,w,e,r,t,y,u,i,o}*{a,s,d,f,x,c,v,b,h,t,r,e,w,y|<a,s>,<w,e>}
+   save ( { |     }  ,      load    load print delete   who {  } reset load save txt + =  ! # - +     )
+   g1  = ( ! ( {print,reset,who,delete,quit,load,save}  * {   [;;;;;[;];;]  , [;]  ,     load   }   )   )  +  !  ( {  |} ) + { } - { }  + { a , v }
+  save ( { |     }  ,      load    load print delete   who {  } reset load save txt +rtyuiofgh jkfghjkvbnm  =  ! # - +     )
+g2 =  load  (  load   load  )*load (  load   load  ) +!load  (  load   load  )
+               save({[[[[[[[[[[;];];];];];];];];];][][][][][][[[;;;;;;;;;;;;;;;];]],a,c,d,es ,ef,gv  ,gb[;;[;[;;][][][][[[]];]]],     f,e|<f,e>} , load   load    )              
+                                                who                                 
+ g   = ( ( ( g1 + g1    ^    {}*g1) ) )   +   (   {| } +{ |} )*{|}*(!{   |  }) + (  ( ( ({a,b}))))*(({b,c}))+load(load   load)
+save( ( g * g + { a  , c  ,  f   ,   r  ,    d   , g , b  | <   b  ,   g   > } )           ,                      load    )
+g3   =   ( !  (  {     print   ,    reset  ,    who    ,    delete   ,    quit  ,    load ,   save }  *   { [;;;;;[;];;],[;]  ,  load } )    )   + !   ( {   |   }   )  +  {    }  -  {     }  +  {  a  ,  v |<     a   , v       >  }
+g4          =  !    (       { first   ,   [[[;]]][;;;;]   }   +   (   ! {  []   ,  [;]  ,   [;;]  }   )  ) - {first} + load  (   load   )   
+g10=(  !   (    g1   +  g2  +  g0 +  g4  )     ) ^ ( g1 - g2 - g0 - g4 ) + ! ( g1   ^ g2 ^ g0 ^ g4 )     * ( g1 - g2 - g0 - g4 ) * {a,b,f,d,e  | <a,b>} } * !(g1 ^ g2 ^ g0 ^ g4 )
+
+print   (  (  load (  load  ) -  load ( load ) ) * ( load ( load   )   )      ) 
+gload = {  load  ,delete  }  +  !(   {  assaf     ,   king     }  ) * !(   {   assaf,  king   }  ) +  g3  +   g2+   !   g3+   !!g3   +   (   g3    )*g3
+g5={whoresetdeleteloadquit         } * {} *  {   }+ g10 ^  (!(!{      kbab})*  (!{     pita     })   * ( !{              brokoliiiiiiiiiii     }   ))
+     print( { printGraph, deleteGraph,reset,who }+({[;]})+({who})    )
+print({who})
+print(      ((!{})!({}+{})!(((((((({}))))))))))
+  print    ( ( !!! !!!! !!!!!!!  !!!!!! !!!!     !!!!!! !!!!!  !!!!!! !!!!!!!!!!!!    !!!!!!!!!!!!!!!    !!!!!!! !!!!!!!!!!!!!!!!!  {g} )   )
+prin t(g)
+g={a,as,ass,asss,assss,asssss,asssssss,|,<a,as>}
+g={}={}
+g+g={}
+g =={}
+(print({}))
+g= {a,as|<a,as>,<a,as>}
+g= {a,as|<a,a>}
+g={a,a}
+g={|<,>}
+g={  |<,>}
+print(({})
+print(()))
+who         who
+g={a, [][][][][][][][][][][];}
+1g={}
+print(load(a)))
+print({;})
+(who)
+g={!{a,v}}
+g={!,+}
+g=+{a,v}
+load()
+print()
+delete()
+p rint({a,v})
+g100=!g100
+g={a}++{b}
+g={a}+*{b}
+g
+print(g)print(g)
+print(delete(g))
+load(dskfljslfj)
+save({},sdfsdf)
+g=load(dfsdlfkssldfk)
+g=
+g={{}|}
+g={(|)}
+g={(a,b)}
+print{g}
+delete{g}
+load({})
+=={}
+g={a,b|<a,b[;]>}
+g={a,b|<a.b>}
+de lete(g)
+delete(!g)
+delete(=)
+delete()                          )
+ d e l e t e ( g)
+who                         quit
+reset()
+who()
+quit()
+()print({})
+()delete(g)
+print({&})
+=
+()
+()()()()()()() who ()
+[]
+g=}a,b{
+g={{a,b}
+g={,a,b|<a,b>}
+g=nimas{cavar|} 
+g={      } *{       }+ !!!!!!{!}
+g={a,b|<a,b>},
+g={a,b|,<a,b>}
+g={a,b,<a,b>}
+g={a,b,c|<a,c>,}
+g=({a,b})+({g,f})+()
+g 10={}
+g={a,b,d,f,e,r|<,,,>}
+g={a,b,d,f,e,r|<a,,,b>}
+g={,}
+g={{a,b}}
+load(load   load)
+   delete    (        g      )      
+                                                   reset              
+                      quit                          
