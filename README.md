@@ -68,7 +68,7 @@ The calculator supports the below functions:
 
    The files encoded in this format:
 
-   <num_vertices><num_edges><vertex1><vertex2><vertexN><edge1><edge2><edgeM>
+   num_vertices num_edges vertex1 vertex2 ... vertexN edge1 edge2 ... edgeM
 
 4) Functions with complex arguments:
 
