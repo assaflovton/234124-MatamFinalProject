@@ -40,7 +40,7 @@ The calculator supports the below operators:
 The calculator supports the below functions:
 - print(G) // adds graph to the calculator memory
 - delete(G) // deletes graph from calculator memory
-- who  // prints a lexical- sorted list of the defined variables)
+- who  // prints a lexical- sorted list of the defined variables
 - reset // erase the calculator memory
 - quit // finishes the program
 
