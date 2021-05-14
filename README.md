@@ -1,6 +1,5 @@
 # Graph Calculator
 ## MATAM final project – Course Number: 234124
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Implementation of a "Graphs Calculator".
 
