@@ -10,7 +10,8 @@ You can assign a graph e.g. G1 = G2
 You can use functions and operation listed below.
 ## Operators
 The calculator supports the below operators:
-- union (+) 
+- union (+)
+ 
 𝑉(𝐺1+𝐺2)=𝑉(𝐺1)∪𝑉(𝐺2) ; 𝐸(𝐺1+𝐺2)=𝐸(𝐺1)∪𝐸(𝐺2) 
 - intersection (^) 
 𝑉(𝐺1^𝐺2)=𝑉(𝐺1)∩𝑉(𝐺2) ; 𝐸(𝐺1^𝐺2)=𝐸(𝐺1)∩𝐸(𝐺2) 
